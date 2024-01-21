@@ -75,19 +75,51 @@ body{
     margin-right: 15px;
 
 }
+.btn--class{
+    display: flex;
+    padding: 20px 10px;
+    justify-content: space-between;
+}
 .info--buttons{
     width:115px ;
     height: 40px;
     border-radius: 6px ;
+    display: flex;
+    align-items: center;
 
 }
 .info--buttons img{
-    width: 16px;
-    height: 16px;
-    text-align: left;
+    margin:3px;
+    height: 20px;    
+}
+
+.btn--email{
+    background-color: white;
+    display: flex;
+    font-size: 20px;
+    margin-left: 20px;
+    border-color: #23252C;
+    
+}
+.btn--linkedin{
+    background-color: #297FE5;
+    color: white;
+    display: flex;
+    font-size: 20px;
+    margin-right: 20px;
+    border: none;
+}
+
+.about, .interests{
+    margin: 15px;
+}
+
+.about p,.interests p{
+    font-size: 10.24;
     
 }
 
-.email{
-    margin-right: 15px;
+.about h3,.interests h3{
+    font-size: 16;
+    font-weight: bold;
 }

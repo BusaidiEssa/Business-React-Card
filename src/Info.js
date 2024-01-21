@@ -12,9 +12,12 @@ export default function Info(){
         <h1 className="Name">Essa Al Busaidi</h1>
         <h3 className="position">Frontend devoloper</h3>
         <h4 className="website">busaidiessa.website</h4>
-        <div className="info--buttons">
-        <button className="email"><img src={emaill}></img>Email</button>
-        <button className="linkedin"><img src={linkedinl}></img>LinkedIn</button>
+
+        <div className="btn--class">
+        <button className="info--buttons btn--email">
+            <img src={emaill}></img>Email</button>
+        <button className="info--buttons btn--linkedin">
+            <img src={linkedinl}></img>LinkedIn</button>
         </div>
         </div>
     </div>
