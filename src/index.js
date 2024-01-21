@@ -1,9 +1,9 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import About from "./Info"
+import Info from "./Info"
 import About from "./About"
-import About from "./Interests"
-import About from "./Footer"
+import Interests from "./Interests"
+import Footer from "./Footer"
 
 function Page(){
     return(
