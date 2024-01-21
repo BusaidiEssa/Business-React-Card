@@ -4,6 +4,6 @@ import pfp from "./profile-pic.jpg"
 
 export default function Info(){
     <div className="info">
-        <img src="./asstes/profile pic.jpg" className="pfp" Alt="Profile picture"></img>
+        <img src="./asstes/profile-pic.jpg" className="pfp" Alt="Profile picture"></img>
     </div>
 }
