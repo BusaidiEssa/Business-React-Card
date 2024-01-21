@@ -1,9 +1,9 @@
 import React from "react";
 import { ReactDOM } from "react";
-import facebookl from "./images/facebook.svg"
-import githubl from "./images/github.svg"
-import twitterl from "./images/twitter.svg"
-import instagraml from "./images/instagram.svg"
+import facebookl from "./images/facebook.png"
+import githubl from "./images/github.png"
+import twitterl from "./images/twitter.png"
+import instagraml from "./images/instagram.png"
 export default function Footer(){
     return(
     <div className="footer">

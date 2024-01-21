@@ -4,16 +4,17 @@ import Info from "./Info"
 import About from "./About"
 import Interests from "./Interests"
 import Footer from "./Footer"
+import "./style.css";
 
 function Page(){
     return(
-        <div>
+        <div className="page--container">
+        <div className="page--container2">
             <Info />
             <About />
             <Interests />
             <Footer />
-            
-
+            </div>
         </div>
     )
 }
