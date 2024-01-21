@@ -6,8 +6,8 @@ export default function Interests(){
         <div className="interests">
             <div className="content-container">
             <h3>Interests</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi temporibus, accusantium repellendus,
-            suscipit enim nulla commodi pariatur eius numquam in quisquam.</p>
+                        <p>I enjoy listening to indie music.In Love with brewing coffee.Enjoy excellent animations. Manhwa and manga enthusiast</p>
+
             </div>
         </div>
     )
